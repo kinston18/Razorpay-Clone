@@ -20,4 +20,4 @@ To run the RazorpayClone website locally, follow these steps:
 <br>
 
 Clone the repository<br>
-Open the terminal and type the command: "npm start run"
+Open the terminal and type the command: "npm run start"
